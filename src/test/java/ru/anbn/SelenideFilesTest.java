@@ -18,6 +18,7 @@ public class SelenideFilesTest {
             e.printStackTrace();
         }
 
+        System.out.println("444");
 
     }
 
