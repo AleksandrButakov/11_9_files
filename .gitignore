@@ -1,41 +1,8 @@
-# Compiled class file
+/.idea
 *.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Properties files
-*.properties
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.tar.gz
-*.rar
-*.iml
-
-# Project gen files
-.idea
-.allure/
-.gradle/
-allure-results/
-gradle/
-build/
-bin/
-out/
-logs/
-target/
-.classpath
-.project
-.settings/org.eclipse.buildship.core.prefs
-.vscode
+!gradle
+/.gradle
+/build
+/gradle/
 /gradlew
 /gradlew.bat
